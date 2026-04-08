@@ -1,0 +1,3 @@
+KAFKA_BOOTSTRAP_SERVERS = "pkc-7prvp.centralindia.azure.confluent.cloud:9092"
+KAFKA_API_KEY = "TFJMCBGG67OC76LH"
+KAFKA_API_SECRET = "cfltVB5Vg5VYj+uh/uYFhdZVnzJUWA59r/6tFlwW6z1PdNZdeXgIz8AueAS3xcNg"
